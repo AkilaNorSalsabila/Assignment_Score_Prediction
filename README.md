@@ -36,3 +36,16 @@ Masuk ke direktori proyek:
 ```bash
 cd Assignment_Score_Prediction
 ```
+Install dependensi:
+```bash
+pip install -r requirements.txt
+```
+Jalankan notebook di Google Colab atau Jupyter Notebook.
+
+## 📈 Visualisasi Hasil  
+
+Beberapa grafik yang dihasilkan dalam proyek ini:  
+
+- 📌 **Scatter Plot** untuk melihat hubungan antara jam belajar dan skor.  
+- 📌 **Garis Prediksi Linear Regression** dibandingkan dengan data aktual.  
+- 📌 **Prediksi Decision Tree** untuk menangkap pola lebih detail.  
