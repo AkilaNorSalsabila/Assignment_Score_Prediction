@@ -1,7 +1,5 @@
 # Assignment_Score_Prediction
 
-# ML Student Scores Prediction
-
 ## 📌 Overview
 Proyek ini menggunakan teknik Machine Learning untuk memprediksi skor siswa berdasarkan jumlah jam belajar mereka.  
 Model yang digunakan termasuk **Linear Regression** dan **Decision Tree** untuk membandingkan performa prediksi.
@@ -33,3 +31,8 @@ Dataset ini berisi data jumlah jam belajar siswa dan skor yang mereka peroleh.
 Clone repositori ini:
 ```bash
 git clone https://github.com/AkilaNorSalsabila/Assignment_Score_Prediction.git
+```
+Masuk ke direktori proyek:
+```bash
+cd Assignment_Score_Prediction
+```
