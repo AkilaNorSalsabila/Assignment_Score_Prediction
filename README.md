@@ -1,4 +1,4 @@
-# Assignment_Score_Prediction
+# Machine Learning Student Scores Prediction  
 
 ## 📌 Overview
 Proyek ini menggunakan teknik Machine Learning untuk memprediksi skor siswa berdasarkan jumlah jam belajar mereka.  
